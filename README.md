@@ -11,11 +11,11 @@ I'm a passionate Full Stack Developer and Designer based in Sri Lanka, with a lo
 🌟 **What You'll Find Here:**
 - 📁 Explore my projects to see my skills in action.
 - 🤝 Feel free to collaborate or fork any project that interests you.
-- 📩 You can reach out to me at [anuradhagwickramasinghe@email.co] for any inquiries or collaboration opportunities.
+- 📩 You can reach out to me at anuradhagwickramasinghe@email.com for any inquiries or collaboration opportunities.
 
 🔗 **Connect with Me:**
 - 🌐 [LinkedIn](www.linkedin.com/in/wickx)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
+- 🐦 [YouTube](https://www.youtube.com/channel/UCnV4QvcHK611T7gLuFzEkwg)
 
 📖 **Stay Inspired:**
 - 💡 Continuous learning is my mantra, and I'm excited to share my journey with you.
