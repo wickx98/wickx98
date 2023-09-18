@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Anuradha] 👋
 
 I'm a passionate Full Stack Developer and Designer based in Sri Lanka, with a love for crafting digital experiences. Welcome to my GitHub repository!
 
